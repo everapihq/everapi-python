@@ -1,4 +1,4 @@
-# CurrencyAPI Python Client #
+# Everapi Python Client #
 
 Everapi Python Client is the official Python Wrapper around the Everapi [API](https://everapi.com/).
 

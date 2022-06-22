@@ -15,7 +15,7 @@ setup(
     license='MIT',
     author='Everapi',
     author_email='office@everapi.com',
-    description='CurrencyAPI Python Client',
+    description='Everapi Python Client',
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
